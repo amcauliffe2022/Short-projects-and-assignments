@@ -1,0 +1,4 @@
+A3p1: mysource.c myMain.c 
+	gcc mysource.c myMain.c -o A3p1 
+A3p3: A3p3.c
+	gcc A3p3.c -o A3p3
