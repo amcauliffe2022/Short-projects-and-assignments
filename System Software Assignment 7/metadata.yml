@@ -1,0 +1,11 @@
+---
+:id: 83789624
+:submitters:
+- :name: Anthony McAuliffe
+  :email: am17145@georgiasouthern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-07-14 13:48:10.488436000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-07-14 06:48:10.488436000 Z
+:status: processed
